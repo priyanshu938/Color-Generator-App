@@ -1,5 +1,12 @@
-# Color-Generator-App
-Color code Generator APK
+
+# Color Code Generator
+
+This is a rgb color Code Generator App built on React Native.
+Press Generate a rgb Color button and get the desired rgb color.
+Click on the rgb color to copy the color code.
+
+
+
 
 ## Authors
 
